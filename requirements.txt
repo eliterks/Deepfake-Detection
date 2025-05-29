@@ -1,0 +1,7 @@
+opencv-python
+tensorflow==2.10.0
+keras
+numpy
+matplotlib
+scikit-learn
+moviepy
